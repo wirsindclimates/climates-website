@@ -1,4 +1,4 @@
 [submodule "dist"]
 	path = dist
-	url = git@github.com:man-oi/climates-website-dist.git
+	url = git@github.com:wirsindclimates/climates-website-dist.git
 	branch = master
