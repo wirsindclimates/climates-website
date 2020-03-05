@@ -8,7 +8,7 @@ setup a local php environment, see xampp or mamp for this
 
 # install
 
-`git clone https://github.com/wirsindclimates/climates-website`
+`git clone --recurse-submodules git@github.com:wirsindclimates/climates-website.git`
 
 `cp ./dist/wp-config-sample.php ./dist/wp-config.php`
 
